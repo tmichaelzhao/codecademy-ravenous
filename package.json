@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://tmichaelzhao.github.io/ravenous",
+  "homepage": "https://tmichaelzhao.github.io/codecademy-ravenous",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
